@@ -14,6 +14,15 @@ You will need 20mm M3 screws to mount to the skirts.
 
 The DIN rail you can mount with M5 10mm BHCS.
 
+## Print Settings
+
+Print in the orientation shown, but these options are required:
+
+* Auto-Supports Enabled
+* Support from build plate only.
+
+## Peechurs
+
 ![](Pictures/2020%20Mount.png)
 
 ![](Pictures/Doom%20350%20Top.JPG)
