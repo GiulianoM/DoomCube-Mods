@@ -18,8 +18,9 @@ The DIN rail you can mount with M5 10mm BHCS.
 
 Print in the orientation shown, but these options are required:
 
-* Auto-Supports Enabled
-* Support from build plate only.
+* Generate support material.
+* Auto-Generated Supports
+* Support on build plate only.
 
 ## Peechurs
 
