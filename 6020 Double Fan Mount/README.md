@@ -21,11 +21,21 @@ You will need M4 25mm screws to attach the fans.
 
 ## Print Settings
 
-Print in the orientation shown, but these options are required:
+There are two versions available to print:
+
+* M3 Version - with holes for M3 heat inserts to mount the 6020 fans.
+* M4 Version - with holes for M4 heat inserts.
+
+Also you will need the modified skirt flange piece with the matching mounting holes.
+
+Print the Fan Skirt part (M3 or M4) in the orientation shown, but these options are required:
 
 * Generate support material.
 * Auto-Generated Supports
 * Support on build plate only.
+
+The Side Panel Flange prints as-is, no supports required.
+
 
 ## Pictures
 
