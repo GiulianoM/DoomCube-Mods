@@ -1,4 +1,4 @@
-# 2020 Mounts
+# DIN Rail Mounts
 
 These are mounts that allow you to attach a standard DIN ~~Djarin~~ Rail (35mm wide, 7.5mm tall) to the top or bottom skirt side pieces on the DoomCube mods.
 
